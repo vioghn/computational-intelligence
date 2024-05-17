@@ -1,0 +1,72 @@
+Generation 0: Best fitness = 0.7847804977355111
+Generation 50: Best fitness = 0.00541958147576338
+Generation 100: Best fitness = 0.00013836227250862976
+Solution found!
+
+Equation: 2*x - 4
+Roots: x = 1.9999308188637457
+Fitness: 0.00013836227250862976
+==============================
+Generation 0: Best fitness = 2.004054678607517
+Generation 50: Best fitness = 0.006930622084586169
+Generation 100: Best fitness = 0.005086340120278976
+Generation 150: Best fitness = 0.005086340120278976
+Generation 200: Best fitness = 0.005086340120278976
+Generation 250: Best fitness = 0.0005742306872065228
+Solution found!
+
+Equation: x**2 - 8*x + 4
+Roots: x = 7.46401873108573
+Fitness: 0.0005742306872065228
+==============================
+Generation 0: Best fitness = 0.4369069680923534
+Generation 50: Best fitness = 0.01784733613856826
+Generation 100: Best fitness = 0.010587685168339078
+Generation 150: Best fitness = 0.001266267308719371
+Generation 200: Best fitness = 0.001266267308719371
+Generation 250: Best fitness = 0.001266267308719371
+Generation 300: Best fitness = 0.001266267308719371
+Generation 350: Best fitness = 0.001266267308719371
+Generation 400: Best fitness = 0.001266267308719371
+Generation 450: Best fitness = 0.001266267308719371
+Generation 500: Best fitness = 0.001266267308719371
+Generation 550: Best fitness = 0.001266267308719371
+Generation 600: Best fitness = 0.001266267308719371
+Generation 650: Best fitness = 0.001266267308719371
+Generation 700: Best fitness = 0.001266267308719371
+Generation 750: Best fitness = 0.001266267308719371
+Generation 800: Best fitness = 0.001266267308719371
+Generation 850: Best fitness = 0.001266267308719371
+Generation 900: Best fitness = 0.001266267308719371
+Generation 950: Best fitness = 4.1066306838644095e-05
+Solution found!
+
+Equation: 4*x**3 - 5*x**2 + x - 1
+Roots: x = 1.213735243062814
+Fitness: 4.1066306838644095e-05
+==============================
+Generation 0: Best fitness = 11.78722450729035
+Generation 50: Best fitness = 0.7151128110517178
+Generation 100: Best fitness = 0.7151128110517178
+Generation 150: Best fitness = 0.1628122509633858
+Generation 200: Best fitness = 0.1628122509633858
+Generation 250: Best fitness = 0.1628122509633858
+Generation 300: Best fitness = 0.11478844804088695
+Generation 350: Best fitness = 0.11478844804088695
+Generation 400: Best fitness = 0.10225346165341875
+Generation 450: Best fitness = 0.10225346165341875
+Generation 500: Best fitness = 0.04581646986763843
+Generation 550: Best fitness = 0.04581646986763843
+Generation 600: Best fitness = 0.04581646986763843
+Generation 650: Best fitness = 0.04581646986763843
+Generation 700: Best fitness = 0.04581646986763843
+Generation 750: Best fitness = 0.04581646986763843
+Generation 800: Best fitness = 0.03486716959874414
+Generation 850: Best fitness = 0.03486716959874414
+Generation 900: Best fitness = 0.03486716959874414
+Generation 950: Best fitness = 0.03486716959874414
+
+Equation: 186*x**3 - 7.22*x**2 + 15.5*x - 13.2
+Roots: x = 0.3589390426603565
+Fitness: 0.03486716959874414
+==============================
